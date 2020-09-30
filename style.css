@@ -23,6 +23,9 @@ figcaption {
 #details {
   display: block;
   background-color: salmon;
+}
+
+#details div {
   float: left;
 }
 
