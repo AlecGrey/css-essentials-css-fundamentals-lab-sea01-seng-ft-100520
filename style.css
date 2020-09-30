@@ -20,4 +20,8 @@ figcaption {
   display: inline-block;
 }
 
+#details {
+  display: block;
+  background-color: red;
+}
 
