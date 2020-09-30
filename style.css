@@ -7,9 +7,12 @@ body {
   font-family: 'PT Sans', sans-serif;
 }
 
+nav {
+  background-color #cccccc;
+}
+
 nav a {
   padding: 0 10px;
-  background-color: #cccccc;
 }
 
 figcaption {
