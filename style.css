@@ -27,7 +27,7 @@ figcaption {
 #details div {
   float: left;
   width: 25%;
-  margin 0 auto;
-  
+  margin: 0 auto;
+  background-color: salmon;
 }
 
